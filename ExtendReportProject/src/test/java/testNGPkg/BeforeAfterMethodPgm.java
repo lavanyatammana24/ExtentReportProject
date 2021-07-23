@@ -8,7 +8,7 @@ public class BeforeAfterMethodPgm
 	@BeforeMethod
 	public void beforeMethod()
 	{
-		System.out.println("Before Method updated in git ");
+		System.out.println("Before Method updated in git 123");
 	}
 	@AfterMethod
 	public void afterMethod()
